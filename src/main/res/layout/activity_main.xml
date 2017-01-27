@@ -23,7 +23,7 @@
         android:text="Happy Birthday!!!!!"
         android:textAlignment="center"
         android:textSize="36sp"
-        tools:textColor="@android:color/holo_red_dark" />
+        android:textColor="@color/colorText"/>
 
     <TextView
         android:id="@+id/textview2"
@@ -35,7 +35,7 @@
         android:padding="5dp"
         android:text="From Partha"
         android:textSize="26sp"
-        tools:textColor="@android:color/white" />
+        android:textColor="@color/colorText" />
 
 
 </RelativeLayout>
